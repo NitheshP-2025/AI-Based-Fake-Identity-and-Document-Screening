@@ -1,0 +1,13 @@
+numpy
+opencv-python
+pillow
+pandas
+fastapi
+uvicorn
+python-multipart
+pydantic
+sqlalchemy
+streamlit
+pytest
+python-dotenv
+easyocr
