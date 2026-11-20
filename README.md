@@ -5,8 +5,8 @@ An AI-powered decision-support tool that analyzes identity and travel documents,
 Built for the UNAI TECH Virtual Internship Program 2026 (AI & Automation).
 
 ## System Architecture
-<img width="940" height="589" alt="image" src="https://github.com/user-attachments/assets/e3892490-04ca-47dc-a71e-1ddb08cea3bf" />
 
+<img width="1890" height="1185" alt="image" src="https://github.com/user-attachments/assets/138b09c7-feae-4b41-aa5d-feedf632ac5f" />
 
 
 
